@@ -2023,170 +2023,170 @@ public class GameControllerScript : MonoBehaviour
 
 
     // Job Option Links
-    // Job Option Links - Career Option 01
-    // Job Option Links - Career Option 01 - More Information
+    // Job Option Links - Mealthcare Admin & Management
+    // Job Option Links - Mealthcare Admin & Management - More Information
     public void Job01MoreLink()
     {
-        // Job 01 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm");
     }
-    // Job Option Links - Career Option 01 - Companies
+    // Job Option Links - Mealthcare Admin & Management - Companies
     public void Job01Comp01Link()
     {
-        // Job 01 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - UnitedHealth Group
+        Application.OpenURL("https://www.unitedhealthgroup.com/careers/en/work.html");
     }
     public void Job01Comp02Link()
     {
-        // Job 01 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - Medtronic
+        Application.OpenURL("https://www.medtronic.com/en-us/our-company/careers.html");
     }
     public void Job01Comp03Link()
     {
-        // Job 01 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - Abbott Laboratories
+        Application.OpenURL("https://www.abbott.com/careers.html");
     }
     public void Job01Comp04Link()
     {
-        // Job 01 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - CVS Health
+        Application.OpenURL("https://jobs.cvshealth.com/us/en");
     }
     public void Job01Comp05Link()
     {
-        // Job 01 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Mealthcare Admin & Management - McKesson
+        Application.OpenURL("https://careers.mckesson.com/en");
     }
-    // Job Option Links - Career Option 02
-    // Job Option Links - Career Option 02 - More Information
+    // Job Option Links - Clinical Research Coordinator
+    // Job Option Links - Clinical Research Coordinator - More Information
     public void Job02MoreLink()
     {
-        // Job 02 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - More Info
+        Application.OpenURL("https://www.payscale.com/research/US/Job=Clinical_Research_Coordinator/Salary");
     }
-    // Job Option Links - Career Option 02 - Companies
+    // Job Option Links - Clinical Research Coordinator - Companies
     public void Job02Comp01Link()
     {
-        // Job 02 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - Massachusetts General Hospital
+        Application.OpenURL("https://www.massgeneral.org/careers");
     }
     public void Job02Comp02Link()
     {
-        // Job 02 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - Mayo Clinic
+        Application.OpenURL("https://jobs.mayoclinic.org/");
     }
     public void Job02Comp03Link()
     {
-        // Job 02 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - Dana-Faber Cancer Institute
+        Application.OpenURL("https://careers.dana-farber.org/jobs/");
     }
     public void Job02Comp04Link()
     {
-        // Job 02 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - Parexel
+        Application.OpenURL("https://jobs.parexel.com/en");
     }
     public void Job02Comp05Link()
     {
-        // Job 02 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Clinical Research Coordinator - Genentech
+        Application.OpenURL("https://careers.gene.com/us/en/");
     }
-    // Job Option Links - Career Option 03
-    // Job Option Links - Career Option 03 - More Information
+    // Job Option Links - Public Health Specialist
+    // Job Option Links - Public Health Specialist - More Information
     public void Job03MoreLink()
     {
-        // Job 03 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Public Health Specialist - More Info
+        Application.OpenURL("https://www.ziprecruiter.com/Salaries/Public-Health-Specialist-Salary");
     }
-    // Job Option Links - Career Option 03 - Companies
+    // Job Option Links - Public Health Specialist - Companies
     public void Job03Comp01Link()
     {
-        // Job 03 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Public Health Specialist - BerryDunn
+        Application.OpenURL("https://www.berrydunn.com/careers");
     }
     public void Job03Comp02Link()
     {
-        // Job 03 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Public Health Specialist - Karna LLC
+        Application.OpenURL("https://karna.com/careers/");
     }
     public void Job03Comp03Link()
     {
-        // Job 03 - Comapny 03
+        // Public Health Specialist - ASC
         Application.OpenURL("http://unity3d.com/");
     }
     public void Job03Comp04Link()
     {
-        // Job 03 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Public Health Specialist - Deloitte
+        Application.OpenURL("https://www.deloitte.com/us/en/careers/careers.html");
     }
     public void Job03Comp05Link()
     {
-        // Job 03 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Public Health Specialist - Blue Cross Blue Shield
+        Application.OpenURL("https://www.bcbs.com/about-us/jobs-careers");
     }
-    // Job Option Links - Career Option 04
-    // Job Option Links - Career Option 04 - More Information
+    // Job Option Links - Healthcare Sales & Marketing
+    // Job Option Links - Healthcare Sales & Marketing - More Information
     public void Job04MoreLink()
     {
-        // Job 04 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - More Info
+        Application.OpenURL("https://mapmycustomers.com/2022/10/13/2022-medical-sales-rep-salary-2/");
     }
-    // Job Option Links - Career Option 04 - Companies
+    // Job Option Links - Healthcare Sales & Marketing - Companies
     public void Job04Comp01Link()
     {
-        // Job 04 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - Medtronic
+        Application.OpenURL("https://www.medtronic.com/en-us/our-company/careers.html");
     }
     public void Job04Comp02Link()
     {
-        // Job 04 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - Johnson & Johnson
+        Application.OpenURL("https://www.careers.jnj.com/en/");
     }
     public void Job04Comp03Link()
     {
-        // Job 04 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - Abbott Laboratories
+        Application.OpenURL("https://www.abbott.com/careers.html");
     }
     public void Job04Comp04Link()
     {
-        // Job 04 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - IPG Health
+        Application.OpenURL("https://ipghealth.com/careers");
     }
     public void Job04Comp05Link()
     {
-        // Job 04 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Sales & Marketing - Ogilvy Health
+        Application.OpenURL("https://www.ogilvyhealth.com/#work-with-us");
     }
-    // Job Option Links - Career Option 05
-    // Job Option Links - Career Option 05 - More Information
+    // Job Option Links - Healthcare Informatic Specialist
+    // Job Option Links - Healthcare Informatic Specialist - More Information
     public void Job05MoreLink()
     {
-        // Job 05 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - More Info
+        Application.OpenURL("https://online.uc.edu/blog/health-informatics-careers-salary/");
     }
-    // Job Option Links - Career Option 05 - Companies
+    // Job Option Links - Healthcare Informatic Specialist - Companies
     public void Job05Comp01Link()
     {
-        // Job 05 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - AKASA
+        Application.OpenURL("https://akasa.com/careers/");
     }
     public void Job05Comp02Link()
     {
-        // Job 05 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - Navina
+        Application.OpenURL("https://www.navina.ai/careers");
     }
     public void Job05Comp03Link()
     {
-        // Job 05 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - Medallion
+        Application.OpenURL("https://medallion.co/about-medallion/careers");
     }
     public void Job05Comp04Link()
     {
-        // Job 05 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - Veda
+        Application.OpenURL("https://jobs.lever.co/vedadata/");
     }
     public void Job05Comp05Link()
     {
-        // Job 05 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Healthcare Informatic Specialist - Embleema
+        Application.OpenURL("https://www.embleema.com/");
     }
 
 
